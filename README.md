@@ -2,7 +2,7 @@
 
 Meu nome é Mateus Sanches
 
--Estou estudando na Alura
+-Estou estudando na Alura (https://www.alura.com.br)
 -Estou me desenvolvendo na linguagem JavaScript
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -10,3 +10,4 @@ Meu nome é Mateus Sanches
 
 00001114561113sp@al.educacao.sp.gov.br
 @mateussanches_14
+![descrição do GIF](link GIF do Tenor)

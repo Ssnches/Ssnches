@@ -12,5 +12,5 @@ Meu nome é Mateus Sanches
 @mateussanches_14
 
 Prazer Pinbas 🤍
-![Pinbas](https://depor.com/resizer/C6WDSzfTldbu1JmginFd-UXkziA=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/VDSYOHEHHZCVBF3AZ62KGBR2IA.jpg)
+![Pinbas](https://th.bing.com/th/id/OIP.aHOFaSwepRqKkW8Ayx7grgAAAA?rs=1&pid=ImgDetMain)
 
